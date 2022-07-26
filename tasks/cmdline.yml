@@ -6,6 +6,7 @@
       --verbosity {{goquorum_log_verbosity}}
       --datadir {{goquorum_data_dir}}
       --syncmode {{goquorum_sync_mode}}
+      --gcmode=archive
       --port {{goquorum_p2p_port}}
       --nousb
       --identity {{goquorum_identity}}
